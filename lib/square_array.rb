@@ -5,5 +5,5 @@ def square_array(numbers)
     new_numbers.push(i * i)
     i += 1
   end
-  new_numbers
+  return new_numbers
 end
