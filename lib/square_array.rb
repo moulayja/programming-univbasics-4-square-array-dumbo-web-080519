@@ -1,3 +1,4 @@
+
 def square_array(numbers)
     new_numbers = []
 	for x in numbers do
