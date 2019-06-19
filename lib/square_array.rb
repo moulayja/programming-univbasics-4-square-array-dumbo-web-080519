@@ -1,3 +1,3 @@
 def square_array(array)
-  array.reduce([]) { |a, n| a << n * n }
+numbers.inject([]){|a,b| a << b**2}
 end
